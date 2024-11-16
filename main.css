@@ -1,3 +1,73 @@
-h2{
-    color:rgb(177, 71, 33)
+.navbar{
+    background-color: #885E65;
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    text-align: center;
 }
+
+.navbar li{
+    list-style-type: none;
+    display: inline;
+
+}
+
+.navbar a{
+    font-size: 38px;
+    padding: 14px 16px; 
+    text-decoration: none;
+    color: white;
+
+}
+
+.navbar a:hover{
+    background-color: white;
+    color:CF8B8B;
+}
+
+body{
+    margin:0;
+    padding: 0;
+    background-image: url("https://media.cntraveler.com/photos/592da6f1edb00428eb63d4b2/16:9/pass/eiffel-GettyImages-490188084.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+/* .welcome{
+    background-color: hwb(350 91% 0%);
+    color: white;
+    padding: 10% 5%;
+    text-align: center;
+    display: box;
+} */
+
+.contentA{
+    background-color:white;
+    opacity: 1%;
+    padding:10% 5%;
+    display: flex;
+    text-align: center;
+}
+
+.contentA img {
+    width: 200%;
+    float: left;
+}
+
+.contentA p {
+    padding: 5%;
+    font-size: 3vw;
+    color:BLACK;
+    font-style: oblique;
+}
+
+
+
+
+
+
+/* DF938B - gia */
+/* DAA49F idk */
