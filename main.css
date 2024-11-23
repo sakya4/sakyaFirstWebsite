@@ -29,7 +29,7 @@
 body{
     margin:0;
     padding: 0;
-    background-image: url("https://media.cntraveler.com/photos/592da6f1edb00428eb63d4b2/16:9/pass/eiffel-GettyImages-490188084.jpg");
+    background-image: url("paris.png");
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -71,3 +71,5 @@ body{
 
 /* DF938B - gia */
 /* DAA49F idk */
+
+/* https://media.cntraveler.com/photos/592da6f1edb00428eb63d4b2/16:9/pass/eiffel-GettyImages-490188084.jpg  - link to orginial photo */
